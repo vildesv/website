@@ -1,4 +1,4 @@
-## HTML & CSS oppgave - enkel nettside
+## HTML & CSS oppgave 1 - enkel nettside
 
 **Mål**: I denne oppgaven skal du lage en enkel nettside ved å bruke de grunnleggende HTML- og CSS-ferdighetene du har lært så langt. Formålet er å se hva du allerede kan, og hvordan du bruker HTML og CSS for å lage en fungerende nettside.
 
